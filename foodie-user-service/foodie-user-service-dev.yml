@@ -7,7 +7,7 @@ mariadb:
 # 功能開關 - 開啟/關閉注册功能
 userservice:
   registration:
-    disabled: true
+    disabled: false
 
 
 
